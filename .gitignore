@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local build staging (artifacts are published to GitHub Releases, not committed)
+/dist-staging/
+*.jar
+*.exe
+*.dmg
+*.AppImage
